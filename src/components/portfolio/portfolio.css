@@ -1,0 +1,69 @@
+/***********************portfolio*******************************/
+.miti{
+  margin-top: 9rem;
+  color: rgb(192, 173, 173);
+}
+.portfolio-info{
+  font-weight: bolder;
+}
+h1{
+    font-weight: bolder;
+}
+.muti{
+  margin-top: 3rem;
+  background-color:rgb(15, 11, 24) ;
+  border-radius: 20px;
+  border-bottom: 1px solid var(--dark-orange);
+  padding: 2rem;
+  text-align: center;
+}
+.sec-btn{
+  color: var(--white);
+  font-size: 12px;
+  font-weight: bold;
+  background-color:rgb(21, 16, 34);
+  border: 2px solid rgb(21, 16, 34);
+  border-radius: 30px;
+  margin-top: 1rem;
+  padding: 9px 0;
+  width: 120px;
+  cursor: pointer;
+  font-family: "Poppins SemiBold";
+  color: white;
+  
+}
+.sec-btn:hover{
+  transform:scale(1.03) ;
+  transition: ease-out;
+  text-decoration: none;
+}
+.projects{
+    display: grid;
+    grid-template-columns: 47% 47%;
+    justify-content: space-between;
+    
+}
+.port-img{
+    width: 100%;
+    height: 220px;
+}
+.tobo{
+    width: 6opx;
+    height: 60px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.project-desc{
+    font-size: small;
+}
+.sec-btn a{
+    text-decoration: none ;
+    color: rgb(192, 173, 173) !important;
+}
+@media only screen and (max-width:960px){
+    .projects{
+        display: flex;
+        flex-direction: column;
+
+    }
+}
