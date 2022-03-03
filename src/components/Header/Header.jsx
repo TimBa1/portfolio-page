@@ -1,20 +1,20 @@
 import Typical from "react-typical";
 import './Header.css';
 
-function Header() {
+function Header({foo}) {
   return (
     <div className="profile-container">
       <div className="profile-parent">
         <div className="profile-details">
           <div className="col">
             <div className="col-icons pa-3">
-              <a href="https://github.com/AbimbolaBakare" target="_blank" rel="noreferrer" className="pp">
+              <a href="https://github.com/AbimbolaBakare" onClick={foo}  className="pp">
                 <i className="fa fa-github-square fa-1.5x"></i>
               </a>
-              <a href="deomolara@yahoo.com" target="_blank" rel="noreferrer" className="pp">
+              <a href="deomolara@yahoo.com"  onClick={foo} className="pp">
                 <i className="fa fa-yahoo fa-1.5x"></i>
               </a>
-              <a href="https://www.linkedin.com/in/abimbola-bakare-470784b3/" target="_blank" rel="noreferrer" className="pp">
+              <a href="https://www.linkedin.com/in/abimbola-bakare-470784b3/"  onClick={foo} className="pp">
                 <i className="fa fa-linkedin-square fa-1.5x"></i>
               </a>
             </div>
