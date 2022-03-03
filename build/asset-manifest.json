@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb24cd06.css",
+    "main.js": "/static/js/main.a1509d07.js",
+    "static/js/787.59d27e81.chunk.js": "/static/js/787.59d27e81.chunk.js",
+    "static/media/wave.jpg": "/static/media/wave.c9209b9cb88a0bdb3a51.jpg",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/marketplace-kudi.jpeg": "/static/media/marketplace-kudi.3c67054fbcb0173f1332.jpeg",
+    "static/media/agrific-mp.jpeg": "/static/media/agrific-mp.8f56c9c82c9dfe1b6ab8.jpeg",
+    "static/media/getripay-mp.jpeg": "/static/media/getripay-mp.f0777d09bbc7c8c205f1.jpeg",
+    "static/media/bimms.png": "/static/media/bimms.107af18593678913258f.png",
+    "static/media/unilag.png": "/static/media/unilag.6ed91a11d08a48e23dc8.png",
+    "index.html": "/index.html",
+    "main.cb24cd06.css.map": "/static/css/main.cb24cd06.css.map",
+    "main.a1509d07.js.map": "/static/js/main.a1509d07.js.map",
+    "787.59d27e81.chunk.js.map": "/static/js/787.59d27e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb24cd06.css",
+    "static/js/main.a1509d07.js"
+  ]
+}
